@@ -7,3 +7,5 @@ The Lexicons used are cited below:
 Georgia, USA.
 3. Nuno Oliveira, Paulo Cortez, and Nelson Areal. 2016. Stock market sentiment lexicon acquisition using microblogging data and statistical measures. Decision
 Support Systems 85:62–73.
+
+The dataset for subtask 1 and 2 is available at http://alt.qcri.org/semeval2017/task5/index.php?id=data-and-tools
