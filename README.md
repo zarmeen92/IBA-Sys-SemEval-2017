@@ -9,3 +9,7 @@ Georgia, USA.
 Support Systems 85:62–73.
 
 The dataset for subtask 1 and 2 is available at http://alt.qcri.org/semeval2017/task5/index.php?id=data-and-tools
+
+Please cite this paper if you use the code
+http://www.aclweb.org/anthology/S17-2140
+
